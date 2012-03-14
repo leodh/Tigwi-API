@@ -1,8 +1,6 @@
 10/03
 Base:
-CLasse User
 
-champs: password
 
 Privées: 
 - Tigwir (messages vierges)
@@ -13,22 +11,9 @@ Publiques:
 - Publier derniers messages
 - Publier dernières personnes à s'être abonnées.
 
-static class User
-{
-password password;
+Next level:
+- Delete
 
-void Write(Message message); //New twig
-void Follow(User toFollow); //Suscribe
+Stratégie de communication internet: ASP NVC
 
-void Delete(Message messageToDelete) //Do I seriously have to explain this one?
-
-<User>List LastFollowed(int n); //n last suscribes by User.this
-<Message>List LastMessages(int n);//n last messages by User.this
-<User>List LastFollowers(int n);//n last users  to suscribe to User.this
-}
-
-static class Message
-{
-String content;
-int Ident; //Identifiant unique d'un message. Utile (?)
-}
+*Basic authentication
