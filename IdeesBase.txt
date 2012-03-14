@@ -1,5 +1,14 @@
 10/03
 Base:
--Tigwir
--Suivre/S'abonner
-Next Level:
+CLasse User
+
+champs: password
+
+Privées: 
+- Tigwir (messages vierges)
+- S'abonner
+
+Publiques:
+- Publier derniers abonnements
+- Publier derniers messages
+- Publier dernières personnes à s'être abonnées.
