@@ -13,8 +13,12 @@ http://api.tigwi.com/usertimeline/_name_/_numberOfMessages_
 _left empty_
 ###Response
 
-    <tamer>
-    <fhgdf>
+     <Message>
+	     <id> idOfMessage </id>
+	     <post_time> timeOfPost </post_time>
+	     <poster> nameOfUser </poster>
+	     <content> content </content>
+     </Messaget>
 
 ###Informations
 
