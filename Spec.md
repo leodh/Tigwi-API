@@ -12,8 +12,8 @@ http://api.tigwi.com/usertimeline/_name_/_numberOfMessages_
 ###Request
 _left empty_
 ###Response
-`<tamere>`
-`<fhgdf>`
+`<tamere>
+    <fhgdf>`
 
 ###Informations
 
