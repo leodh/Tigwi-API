@@ -1,12 +1,12 @@
-﻿# Tigwi - API Specification by L. de HARO, A. de MYTTENAERE and T. ZIMMERMANN 
+﻿Tigwi - API Specification by L. de HARO, A. de MYTTENAERE and T. ZIMMERMANN 
 
-##Get an user's public informations
+#Get an user's public informations
 
-###Get someone's messages
-###Get someone's suscriptions list
-###Get someone's suscribers list
+##Get someone's messages
+##Get someone's suscriptions list
+##Get someone's suscribers list
 
-##Send informations to one's Tigwi account
+#Send informations to one's Tigwi account
 
-###Post a message
-###Suscribe to someone's  channel
+##Post a message
+##Suscribe to someone's  channel
