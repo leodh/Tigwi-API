@@ -32,7 +32,7 @@ Message format:
 ###Informations
 * In **URL**, _name_ is the name of the user whose messages you want to get.
 * In **URL**, _numberOfMessages_ is the number of messages you want to get. It is optional and default is set to 20.
-
+* In **Response**, _sizeOfList_ is the number of messages returned (different from _numberOfMessages if there are not enough messages to provide).
 
 ##Get someone's suscriptions list
 
