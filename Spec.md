@@ -131,7 +131,7 @@ If no error occurs
     <error/>
 
 ###Informations
-* In **Request**, the size of your message is limited to 140 characters, but this limit is tested by the server. It raises an error if the message s too long.
+* In **Request**, the size of your message is limited to 140 characters, but this limit is tested by the server. It raises an error if the message is too long.
 * In **Response*, _numberOfError_ is the code of the error.
 * In **Response, _quickExplanation_ is some text explaining the type of error that occured.
 
